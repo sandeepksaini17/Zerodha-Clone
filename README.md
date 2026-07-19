@@ -113,16 +113,20 @@ Example:
 - LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
 
 project work Photos = 
-main = 
+Main = 
+
 <img width="1876" height="848" alt="Screenshot 2025-12-23 120923" src="https://github.com/user-attachments/assets/9388bf30-f004-40c3-8c4a-df9890d18089" />
 
 Dashboard = 
+
 <img width="1883" height="875" alt="Screenshot 2025-12-21 172932" src="https://github.com/user-attachments/assets/a4b1323d-9918-4280-86a8-22c267a4249e" />
 
 About = 
+
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 192946" src="https://github.com/user-attachments/assets/65808ba3-89f9-47e3-b0cd-baa859f1dd36" />
 
 Product = 
+
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 193043" src="https://github.com/user-attachments/assets/d17b8d64-5f2a-4936-9c63-65d89f60d66d" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 193053" src="https://github.com/user-attachments/assets/b611d8a5-1a13-46e4-a9a3-9e341826f192" />
@@ -133,9 +137,9 @@ Product =
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 193134" src="https://github.com/user-attachments/assets/5c17d1b7-a3a3-4b82-829d-3bdda37965ab" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-19 193134" src="https://github.com/user-attachments/assets/37184751-d429-40c6-9c99-47666ecc2901" />
 
 Pricing = 
+
 <img width="1920" height="1080" alt="Screenshot 2026-07-19 193419" src="https://github.com/user-attachments/assets/6248c375-e48e-4de9-b49e-63adbf75e999" />
 
 Support Portal = 
