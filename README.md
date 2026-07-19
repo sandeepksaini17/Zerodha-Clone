@@ -114,14 +114,32 @@ Example:
 
 project work Photos = 
 main = 
-<img width="1876" height="848" alt="Screenshot 2025-12-23 120923" src="https://github.com/user-attachments/assets/26901d8b-6c6c-45e6-99ea-618fff1e9ca4" />
-Dashboard = 
-<img width="1883" height="875" alt="Screenshot 2025-12-21 172932" src="https://github.com/user-attachments/assets/156e03d4-319f-45ef-963b-d02e177c8c06" />
-And All inside work photos = 
-<img width="1877" height="853" alt="Screenshot 2025-12-23 120945" src="https://github.com/user-attachments/assets/619870c4-4105-4d83-a973-02aa5f02aa96" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-23 121000" src="https://github.com/user-attachments/assets/bee1a953-5e75-4ceb-a9ad-032154d7748d" />
-<img width="1877" height="862" alt="Screenshot 2025-12-23 121025" src="https://github.com/user-attachments/assets/2e410559-17bb-44aa-95f1-00128b5ad704" />
+<img width="1876" height="848" alt="Screenshot 2025-12-23 120923" src="https://github.com/user-attachments/assets/9388bf30-f004-40c3-8c4a-df9890d18089" />
 
+Dashboard = 
+<img width="1883" height="875" alt="Screenshot 2025-12-21 172932" src="https://github.com/user-attachments/assets/a4b1323d-9918-4280-86a8-22c267a4249e" />
+
+About = 
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 192946" src="https://github.com/user-attachments/assets/65808ba3-89f9-47e3-b0cd-baa859f1dd36" />
+
+Product = 
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193043" src="https://github.com/user-attachments/assets/d17b8d64-5f2a-4936-9c63-65d89f60d66d" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193053" src="https://github.com/user-attachments/assets/b611d8a5-1a13-46e4-a9a3-9e341826f192" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193103" src="https://github.com/user-attachments/assets/ea5c2d08-a324-45b4-972f-113b9de67d59" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193123" src="https://github.com/user-attachments/assets/55820843-e1c7-4347-a8fb-65a80a11b1c4" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193134" src="https://github.com/user-attachments/assets/5c17d1b7-a3a3-4b82-829d-3bdda37965ab" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193134" src="https://github.com/user-attachments/assets/37184751-d429-40c6-9c99-47666ecc2901" />
+
+Pricing = 
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193419" src="https://github.com/user-attachments/assets/6248c375-e48e-4de9-b49e-63adbf75e999" />
+
+Support Portal = 
+<img width="1920" height="1080" alt="Screenshot 2026-07-19 193501" src="https://github.com/user-attachments/assets/264f7790-860e-4a77-aef6-42a019f64cd2" />
 
 
 ## ⭐ Support
